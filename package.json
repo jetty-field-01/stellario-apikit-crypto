@@ -1,0 +1,25 @@
+{
+  "name": "stellario-apikit-crypto",
+  "version": "1.0.0",
+  "description": "Integrate's crypto APIs for secure and reliable blockchain interactions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jetty-field-01/stellario-apikit-crypto"
+  },
+  "author": "jetty-field-01",
+  "license": "MIT",
+  "dependencies": {
+    "stellario-apikit": "1.0.0",
+    "stellario-apikit-crypto": "1.0.0",
+    "web3": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "express": "1.0.0",
+    "web3-react": "1.0.0",
+    "axios": "1.0.0",
+    "ethereumjs-tx": "1.0.0"
+  }
+}
